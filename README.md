@@ -1,0 +1,1 @@
+https://hackernoon.com/api-testing-with-jest-d1ab74005c0a
